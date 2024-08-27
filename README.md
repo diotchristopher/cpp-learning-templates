@@ -3,10 +3,10 @@ This repository contains two learning programs in C++ that guide through essenti
 
 ## Available Programs
 
-1. [**Video game oriented C++ program**](programme_cpp_jeu_video.md)
+1. [**Video game oriented C++ program**](cpp_game_dev_program.md)
    - This 3-week program is designed to teach how to use C++ in the context of video game development. Each day, a practical exercise that help develop skills, starting from the basics to creating simple games.
 
-2. [**Algorithm program in C++**](program_algorithms_cpp.md)
+2. [**Algorithm program in C++**](cpp_algorithms_program.md)
    - This 3-week program focuses on learning fundamental and advanced algorithms in C++. There find daily exercises to strengthen problem solving and code optimization skills.
 
 ## How to Use These Programs
